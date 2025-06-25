@@ -33,5 +33,3 @@ Cada herói possui um valor de XP. Com base nisso, ele é classificado nos segui
 - Crystal Maiden – 850 XP
 - Juggernaut – 7.200 XP
 
-## 🧠 Resultado esperado
-
